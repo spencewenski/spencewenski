@@ -10,7 +10,8 @@ I am a game designer and software engineer. I deliver new user-facing features a
 - [LinkedIn](https://linkedin.com/in/spencewenski)
 
 ## Projects
-- [Financial Transaction Processor](https://gitlab.com/spencewenski/transaction_processor) - CLI application written in Rust to convert transform transaction records of various financial accounts to different formats. 
+- [Financial Transaction Processor](https://gitlab.com/spencewenski/transaction_processor) - Transform transaction records of various financial accounts to different formats. CLI application written in Rust.
+- [Resume Generator](https://github.com/spencewenski/resume_generator) - Render a resume data file into various formats, including pdf, markdown, and plain text. CLI application written in Rust.
 - [Grouped Timers for Pebble](https://gitlab.com/spencewenski/pebble_grouped_timers) - A timer app for Pebble watches that allows you to group timers into lists.
 - [Website Repo](https://github.com/spencewenski/spencewenski.github.io)
 - [SudoSlide - CLI version](https://github.com/spencewenski/sudoslide) - A sliding puzzle game. CLI version written in C++
