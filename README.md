@@ -1,16 +1,15 @@
-### Hi there 👋
+# Spencer Ferris
 
-<!--
-**spencewenski/spencewenski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Website](https://spencewenski.com)
+- [GitHub](https://github.com/spencewenski)
+- [GitLab](https://gitlab.com/spencewenski)
+- [sourcehut](https://sr.ht/~spencewenski/)
+- [LinkedIn](https://linkedin.com/in/spencewenski)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Financial Transaction Processor](https://gitlab.com/spencewenski/transaction_processor) - CLI application written in Rust to convert transform transaction records of various financial accounts to different formats. 
+- [Grouped Timers for Pebble](https://gitlab.com/spencewenski/pebble_grouped_timers) - A timer app for Pebble watches that allows you to group timers into lists.
+- [Website Repo](https://github.com/spencewenski/spencewenski.github.io)
+- [SudoSlide - CLI version](https://github.com/spencewenski/sudoslide) - A sliding puzzle game. CLI version written in C++
+- [SudoSlide - GUI version](https://git.sr.ht/~spencewenski/SudoSlide) - A sliding puzzle game. GUI version written in Godot.
+- [Vision](https://github.com/spencewenski/Vision) - A a first person puzzle platformer in which you use sound guns to see and interact with the environment.
