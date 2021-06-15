@@ -26,7 +26,7 @@ and my dog. :)
   and interact with the environment.
 
 ## Technologies
-Java, C#, C, C++, Python, JavaScript, Rust, Git, Godot, Unity, IntelliJ, Android, Spring, Pebble
+Java, C#, C, C++, Python, JavaScript, Rust, Git, Godot, Unity, IntelliJ, Android, Spring, Guice, Dagger, Pebble, Mockito, TestNG
 
 ---
 
