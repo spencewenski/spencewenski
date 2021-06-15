@@ -30,4 +30,4 @@ Java, C#, C, C++, Python, JavaScript, Rust, Git, Godot, Unity, IntelliJ, Android
 
 ---
 
-Generated on 14 June 2021 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Generated on 15 June 2021 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
