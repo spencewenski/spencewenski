@@ -1,9 +1,9 @@
 # Spencer Ferris
 
-I am a game designer and software engineer. I deliver new user-facing features at Amazon as part of the Alexa on FireTV
+I am a software engineer and game designer. I deliver new user-facing features at Amazon as part of the Alexa on FireTV
 team using Spring services development and Android app development. I strive to improve the user experience and
-code/operational quality of all projects I work on. In my free time I mostly play with Godot, Rust, Raspberry Pi, C/C++,
-and my dog. :)
+operational quality of all projects I work on. In my free time I mostly play with Godot, Rust, Raspberry Pi, C/C++, and
+my dog. :)
 
 ## Links and Contact Info
 - GitHub: [github.com/spencewenski](https://github.com/spencewenski)
@@ -26,7 +26,7 @@ and my dog. :)
   and interact with the environment.
 
 ## Technologies
-Java, C#, C, C++, Python, JavaScript, Rust, Git, Godot, Unity, IntelliJ, Android, Spring, Guice, Dagger, Pebble, Mockito, TestNG
+Java, C#, C, C++, Python, JavaScript, Rust, Git, Android, Linux, AWS, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Godot, Unity, IntelliJ, Pebble
 
 ---
 
