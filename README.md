@@ -30,4 +30,4 @@ Java, C#, C, C++, Python, JavaScript, Rust, Git, Android, Linux, AWS, Spring, Gu
 
 ---
 
-Updated on 18 June 2021 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 19 June 2021 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
