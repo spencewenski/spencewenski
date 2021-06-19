@@ -26,7 +26,7 @@ my dog. :)
   and interact with the environment.
 
 ## Technologies
-Java, C#, C, C++, Python, JavaScript, Rust, Git, Android, Linux, AWS, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Godot, Unity, IntelliJ, Pebble, Raspberry Pi
+Java, C#, C, C++, Python, JavaScript, Rust, Git, Android, Linux, AWS, REST, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Godot, Unity, IntelliJ, Pebble, Raspberry Pi
 
 ---
 
