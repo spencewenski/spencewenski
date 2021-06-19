@@ -5,7 +5,7 @@ team using Spring services development and Android app development. I strive to 
 operational quality of all projects I work on. In my free time I mostly play with Godot, Rust, Raspberry Pi, C/C++, and
 my dog. :)
 
-## Links and Contact Info
+## Find me here
 - GitHub: [github.com/spencewenski](https://github.com/spencewenski)
 - GitLab: [gitlab.com/spencewenski](https://gitlab.com/spencewenski)
 - sourcehut: [sr.ht/~spencewenski](https://sr.ht/~spencewenski)
