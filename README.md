@@ -26,8 +26,8 @@ my dog. :)
   and interact with the environment.
 
 ## Technologies
-Java, Rust, Python, C, C++, C#, JavaScript, Git, Android, Linux, AWS, REST, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Godot, Unity, IntelliJ, Pebble, Raspberry Pi
+Java, Rust, Python, C, C++, C#, JavaScript, Git, Android, Linux, AWS, REST, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
 
 ---
 
-Updated on 19 June 2021 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 20 June 2021 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
