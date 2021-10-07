@@ -26,8 +26,8 @@ and my dog. :)
   uses sound guns to see and interact with the environment
 
 ## Technologies
-Java, Rust, Python, C, C++, C#, JavaScript, Git, Android, AIDL, Linux, AWS, REST, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
+Java, Rust, JavaScript, React, Python, C, C++, C#, Git, Android, AIDL, Linux, AWS, REST, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
 
 ---
 
-Updated on 1 September 2021 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 7 October 2021 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
