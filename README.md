@@ -2,8 +2,8 @@
 
 I am a software engineer and game designer. I deliver new user-facing features at Amazon as part of the Alexa on FireTV
 team using Java services development and Android app development. I strive to improve the user experience and
-operational quality of all projects I work on. In my free time I enjoy playing with Godot, Rust, Raspberry Pi, C/C++,
-and my dog. :)
+operational quality of all projects I work on. In my free time I enjoy playing with Godot, Rust, Raspberry Pi, and my
+dog. :)
 
 ## Find me here
 - GitHub: [github.com/spencewenski](https://github.com/spencewenski)
@@ -34,4 +34,4 @@ Java, Rust, JavaScript, TypeScript, React, Python, C, C++, C#, Git, Android, AID
 
 ---
 
-Updated on 16 February 2022 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 18 February 2022 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
