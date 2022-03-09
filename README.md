@@ -20,8 +20,8 @@ dog. :)
   written in C that allows grouping timers into lists
 - [Meal Planner - Rust Server](https://git.sr.ht/~spencewenski/meal_planning) - Prototype GraphQL server written in Rust
   for a meal planner website
-- [Meal Planner - React UI](https://gitlab.com/spencewenski/pebble_grouped_timers) - Prototype React UI written in
-  TypeScript for a meal planner website
+- [Meal Planner - React UI](https://git.sr.ht/~spencewenski/meal_planning_ui) - Prototype React UI written in TypeScript
+  for a meal planner website
 - [SudoSlide - GUI version](https://git.sr.ht/~spencewenski/SudoSlide) - A sliding puzzle game created with Godot that's
   a mix between a Rubik's cube and a sliding picture puzzle
 - [SudoSlide - CLI version](https://github.com/spencewenski/sudoslide) - A sliding puzzle game written in C++ that's a
@@ -34,4 +34,4 @@ Java, Rust, JavaScript, TypeScript, React, Python, C, C++, C#, Git, Android, AID
 
 ---
 
-Updated on 22 February 2022 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 9 March 2022 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
