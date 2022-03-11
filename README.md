@@ -12,7 +12,7 @@ dog. :)
 - Website: [spencewenski.com](https://spencewenski.com)
 
 ## Projects
-- [Financial Transaction Processor](https://gitlab.com/spencewenski/transaction_processor) - CLI application written in
+- [Financial Transaction Processor](https://github.com/spencewenski/transaction_processor) - CLI application written in
   Rust to transform transaction records of financial accounts to different formats
 - [Resume Generator](https://github.com/spencewenski/resume_generator) - CLI application written in Rust to render a
   common resume data file into pdf, markdown, and plain text
@@ -34,4 +34,4 @@ Java, Rust, JavaScript, TypeScript, React, Python, C, C++, C#, Git, Android, AID
 
 ---
 
-Updated on 9 March 2022 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 11 March 2022 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
