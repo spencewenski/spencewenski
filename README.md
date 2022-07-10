@@ -34,4 +34,4 @@ Java, Rust, JavaScript, TypeScript, React, Python, C, C++, C#, Git, Android, AID
 
 ---
 
-Updated on 7 April 2022 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 10 July 2022 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
