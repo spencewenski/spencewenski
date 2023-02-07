@@ -7,6 +7,8 @@
 - Website: [spencewenski.com](https://spencewenski.com)
 
 ## Projects
+- [Mass Dissent](https://massdissent.com) - Website that provides an easy way to send a physical letter to U.S. Congress
+  members. Next.js, TypeScript, tRPC, Stripe, Sendgrid, Rust, Postgres, Supabase.
 - [Financial Transaction Processor](https://github.com/spencewenski/transaction_processor) - CLI application written in
   Rust to transform transaction records of financial accounts to different formats
 - [Resume Generator](https://github.com/spencewenski/resume_generator) - CLI application written in Rust to render a
@@ -25,8 +27,8 @@
   uses sound guns to see and interact with the environment
 
 ## Technologies
-Java, Rust, JavaScript, TypeScript, React, Python, C, C++, C#, Git, Android, AIDL, Linux, AWS, GraphQL, REST, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
+Java, Rust, Next.js, React, TypeScript, JavaScript, Python, C, C++, C#, Git, Android, AIDL, Linux, AWS, GraphQL, tRPC, REST, Postgres, Supabaes, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
 
 ---
 
-Updated on 11 January 2023 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 7 February 2023 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
