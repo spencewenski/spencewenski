@@ -27,8 +27,8 @@
   uses sound guns to see and interact with the environment
 
 ## Technologies
-Java, Rust, Next.js, React, TypeScript, JavaScript, Python, C, C++, C#, Git, Android, AIDL, Linux, AWS, GraphQL, tRPC, REST, Postgres, Supabaes, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
+Java, Rust, Next.js, React, TypeScript, JavaScript, Python, C, C++, C#, Git, Android, AIDL, Linux, AWS, GraphQL, tRPC, REST, Postgres, Supabase, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
 
 ---
 
-Updated on 7 February 2023 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 2 March 2023 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
