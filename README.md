@@ -21,4 +21,4 @@ Java, Rust, Next.js, React, TypeScript, JavaScript, Python, C, C++, C#, Git, And
 
 ---
 
-Updated on 3 March 2023 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 3 January 2024 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
