@@ -17,8 +17,8 @@
   common resume data file into pdf, markdown, and plain text
 
 ## Technologies
-Java, Rust, Next.js, React, TypeScript, JavaScript, Python, C, C++, C#, Git, Android, AIDL, Linux, AWS, GraphQL, tRPC, REST, Postgres, Supabase, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
+Java, Rust, Next.js, React, Rails, TypeScript, JavaScript, Python, C, C++, C#, Git, Android, AIDL, Linux, AWS, New Relic, GraphQL, tRPC, REST, Postgres, Supabase, SQL, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
 
 ---
 
-Updated on 3 January 2024 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 8 January 2024 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
