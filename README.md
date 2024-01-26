@@ -7,8 +7,8 @@
 - Website: [spencewenski.com](https://spencewenski.com)
 
 ## Projects
-- [Mass Dissent](https://massdissent.com) - Website that provides an easy way to send a physical letter to U.S. Congress
-  members. Next.js, TypeScript, tRPC, Stripe, Sendgrid, Rust, Postgres, Supabase.
+- [Mass Dissent](https://twitter-mailer-app-massdissent.vercel.app) - Website that provides an easy way to send a
+  physical letter to U.S. Congress members. Next.js, TypeScript, tRPC, Stripe, Sendgrid, Rust, Postgres, Supabase.
 - [Financial Transaction Processor](https://github.com/spencewenski/transaction_processor) - CLI application written in
   Rust to transform transaction records of financial accounts to different formats
 - [Grouped Timers for Pebble](https://gitlab.com/spencewenski/pebble_grouped_timers) - Timer app for Pebble watches
@@ -21,4 +21,4 @@ Java, Rust, Next.js, React, Rails, TypeScript, JavaScript, Python, C, C++, C#, G
 
 ---
 
-Updated on 8 January 2024 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 26 January 2024 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
