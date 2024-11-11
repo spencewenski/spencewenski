@@ -2,8 +2,6 @@
 
 ## Find me here
 - GitHub: [github.com/spencewenski](https://github.com/spencewenski)
-- GitLab: [gitlab.com/spencewenski](https://gitlab.com/spencewenski)
-- sourcehut: [sr.ht/~spencewenski](https://sr.ht/~spencewenski)
 - Website: [spencewenski.com](https://spencewenski.com)
 
 ## Projects
@@ -23,4 +21,4 @@ Rails, React, TypeScript, JavaScript, Rust, Java, Next.js, Python, C, C++, C#, G
 
 ---
 
-Updated on 8 November 2024 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 11 November 2024 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
