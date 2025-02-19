@@ -6,7 +6,7 @@
 
 ## Projects
 - [Roadster](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed to get
-  you moving fast. Rust, Sidekiq, Postgres, SeaORM, OpenAPI, OpenTelemetry.
+  you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
 - [Mass Dissent](https://twitter-mailer-app-massdissent.vercel.app) - Website that provides an easy way to send a
   physical letter to U.S. Congress members. Next.js, TypeScript, tRPC, Stripe, Sendgrid, Rust, Postgres, Supabase.
 - [Financial Transaction Processor](https://github.com/spencewenski/transaction_processor) - CLI application written in
@@ -21,4 +21,4 @@ Rails, React, TypeScript, JavaScript, Rust, Java, Next.js, Python, C, C++, C#, G
 
 ---
 
-Updated on 11 November 2024 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 19 February 2025 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
