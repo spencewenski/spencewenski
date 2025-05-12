@@ -21,4 +21,4 @@ Rails, Sidekiq, React, TypeScript, JavaScript, Rust, Java, Next.js, Python, C, C
 
 ---
 
-Updated on 28 April 2025 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
+Updated on 12 May 2025 using [github.com/spencewenski/resume_generator](https://github.com/spencewenski/resume_generator)
