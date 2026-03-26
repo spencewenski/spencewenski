@@ -3,6 +3,7 @@
 ## Find me here
 - GitHub: [github.com/spencewenski](https://github.com/spencewenski)
 - Website: [spencewenski.com](https://spencewenski.com)
+- LinkedIn: [linkedin.com/spencerferris](https://linkedin.com/spencerferris)
 
 ## Projects
 - [Roadster](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed to get
