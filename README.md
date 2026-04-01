@@ -10,7 +10,8 @@ Experienced full stack software engineer with a passion for crafting high qualit
 ## Projects
 - [Roadster](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed to get
   you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
-- [PGMQ (Contributor)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by Postgres.
+- [PGMQ (Contributor)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by Postgres. Rust,
+  Postgres.
 - [Mass Dissent](https://twitter-mailer-app-massdissent.vercel.app) - Website that provides an easy way to send a
   physical letter to U.S. Congress members. Next.js, TypeScript, tRPC, Stripe, Sendgrid, Rust, Postgres, Supabase.
 - [Grouped Timers for Pebble](https://gitlab.com/spencewenski/pebble_grouped_timers) - Timer app for Pebble watches
