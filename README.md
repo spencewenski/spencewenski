@@ -7,7 +7,7 @@ Experienced full stack software engineer with a passion for crafting high qualit
 - Website: [spencewenski.com](https://spencewenski.com)
 - LinkedIn: [linkedin.com/in/spencerferris](https://linkedin.com/in/spencerferris)
 
-## Projects
+## Projects & Open Source
 - [Roadster](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed to get
   you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
 - [PGMQ (Contributor)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by Postgres. Rust,
