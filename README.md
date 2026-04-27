@@ -1,6 +1,6 @@
 # Spencer Ferris
 
-Experienced full stack software engineer with a passion for crafting high quality systems and user experiences.
+Experienced full stack software engineer and lifelong learner with a passion for crafting high quality systems.
 
 ## Find me here
 - GitHub: [github.com/spencewenski](https://github.com/spencewenski)
