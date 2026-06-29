@@ -1,6 +1,7 @@
 # Spencer Ferris
 
-Experienced full stack software engineer and lifelong learner with a passion for crafting high quality systems.
+Full-stack engineer and technical leader with 10 years of experience building scalable systems used by millions of
+customers.
 
 ## Find me here
 - GitHub: [github.com/spencewenski](https://github.com/spencewenski)
@@ -8,14 +9,7 @@ Experienced full stack software engineer and lifelong learner with a passion for
 - LinkedIn: [linkedin.com/in/spencerferris](https://linkedin.com/in/spencerferris)
 
 ## Projects & Open Source
-- [Roadster](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed to get
-  you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
-- [PGMQ (Collaborator)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by Postgres. Rust,
-  Postgres.
-- [Mass Dissent](https://twitter-mailer-app-massdissent.vercel.app) - Website that provides an easy way to send a
-  physical letter to U.S. Congress members. Next.js, TypeScript, tRPC, Stripe, Sendgrid, Rust, Postgres, Supabase.
-- [Grouped Timers for Pebble](https://gitlab.com/spencewenski/pebble_grouped_timers) - Timer app for Pebble watches
-  written in C that allows grouping timers into lists
-
-## Technologies
-Rails, Sidekiq, React, TypeScript, JavaScript, Rust, Java, Next.js, Python, C, C++, C#, Git, Android, AIDL, Linux, AWS, GraphQL, New Relic, tRPC, REST, Postgres, Supabase, SQL, MongoDB, Spring, Guice, Dagger, Mockito, TestNG, JUnit, Robolectric, Godot, Unity, GitHub Actions, IntelliJ, Pebble, Raspberry Pi, Jira
+- [PGMQ (Collaborator; 5K stars)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by
+  Postgres. Rust, Postgres.
+- [Roadster (Creator)](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed
+  to get you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
