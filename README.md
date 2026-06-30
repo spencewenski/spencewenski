@@ -13,3 +13,6 @@ customers.
   Postgres. Rust, Postgres.
 - [Roadster (Creator)](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed
   to get you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
+
+## Skills
+Cloud infrastructure (AWS, GCP), Frontend development (React, TypeScript), REST API development (Ruby on Rails, Java Spring, Rust), Asynchronous workloads (SQS, Sidekiq, Ruby, Java, Rust), Mobile app development (Android, Java), Efficient database design (Mongo, Postgres, SQL), Test automation (Playwright, Cypress, Vitest, JUnit), CI/CD (GitHub Actions), Agile/Scrum (Jira)
