@@ -4,8 +4,7 @@ Full-stack engineer and technical leader with 10 years of experience building sc
 customers.
 
 ## Find me here
-- GitHub: [github.com/spencewenski](https://github.com/spencewenski)
-- LinkedIn: [linkedin.com/in/spencerferris](https://linkedin.com/in/spencerferris)
+- GitHub: [spencewenski](https://spencewenski)
 - Website: [spencewenski.com](https://spencewenski.com)
 
 ## Projects & Open Source
@@ -17,12 +16,4 @@ customers.
   written in C that allows grouping timers into lists
 
 ## Skills
-- Cloud infrastructure (AWS, GCP)
-- Frontend development (React, TypeScript)
-- REST API development (Ruby on Rails, Java Spring, Rust)
-- Asynchronous workloads (SQS, Sidekiq, Ruby, Java, Rust)
-- Mobile app development (Android, Java)
-- Efficient database design (Mongo, Postgres, SQL)
-- Test automation (Playwright, Cypress, Vitest, JUnit)
-- CI/CD (GitHub Actions)
-- Agile/Scrum (Jira)
+Cloud infrastructure (AWS, GCP), Frontend development (React, TypeScript), REST API development (Ruby on Rails, Java Spring, Rust), Asynchronous workloads (SQS, Sidekiq, Ruby, Java, Rust), Mobile app development (Android, Java), Efficient database design (Mongo, Postgres, SQL), Test automation (Playwright, Cypress, Vitest, JUnit), CI/CD (GitHub Actions), Agile/Scrum (Jira)
