@@ -1,7 +1,6 @@
 # Spencer Ferris
 
-Full-stack engineer and technical leader with 10 years of experience building scalable systems used by millions of
-customers.
+Full-stack engineer and technical leader with 10 years of experience building scalable systems used by millions of customers.
 
 ## Find me here
 - GitHub: [github.com/spencewenski](https://github.com/spencewenski)
@@ -9,12 +8,9 @@ customers.
 - Website: [spencewenski.com](https://spencewenski.com)
 
 ## Projects & Open Source
-- [PGMQ (Collaborator; 5K stars)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by
-  Postgres. Rust, Postgres.
-- [Roadster (Creator)](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed
-  to get you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
-- [Grouped Timers for Pebble](https://gitlab.com/spencewenski/pebble_grouped_timers) - Timer app for Pebble watches
-  written in C that allows grouping timers into lists
+- [PGMQ (Collaborator; 5K stars)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by Postgres. Rust, Postgres.
+- [Roadster (Creator)](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed to get you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
+- [Grouped Timers for Pebble](https://gitlab.com/spencewenski/pebble_grouped_timers) - Timer app for Pebble watches written in C that allows grouping timers into lists
 
 ## Skills
 - Cloud infrastructure (AWS, GCP)
