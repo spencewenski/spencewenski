@@ -8,7 +8,7 @@ Full-stack engineer and technical leader with 10 years of experience building sc
 - Website: [spencewenski.com](https://spencewenski.com)
 
 ## Projects & Open Source
-- [PGMQ (Collaborator; 5K stars)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by Postgres. Rust, Postgres.
+- [PGMQ (Collaborator; 5K Stars)](https://github.com/pgmq/pgmq) - Message queue similar to AWS SQS but backed by Postgres. Rust, Postgres.
 - [Roadster (Creator)](https://github.com/roadster-rs/roadster) - A "Batteries Included" web framework for rust designed to get you moving fast. Rust, Sidekiq, Postgres, SeaORM, Diesel, OpenAPI, SMTP, OpenTelemetry.
 - [Grouped Timers for Pebble](https://gitlab.com/spencewenski/pebble_grouped_timers) - Timer app for Pebble watches written in C that allows grouping timers into lists
 
